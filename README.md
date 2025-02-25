@@ -14,7 +14,7 @@
 <div align="center">  
 <a href="https://www.instagram.com/xxx/" target="_blank"><img src=https://img.icons8.com/?size=100&id=32323&format=png&color=000000?style=for-the-badge&logo=instagram&logoColor=white"</a>
    <a href="https://discord.com/xxx/" target="_blank"><img src=https://img.icons8.com/?size=100&id=alUj8grSk3RX&format=png&color=000000?style=for-the-badge&logo=discord&logoColor=white"</a>
-     <a href="https://discord.com/xxx/" target="_blank"><img src=https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
+     <a href="https://https://www.linkedin.com/xxx/" target="_blank"><img src=https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
 </div> 
  
  
